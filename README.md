@@ -7,6 +7,9 @@ SkelConvertToJson is a tool to use offical runtime tools to load Spine `.atlas` 
 - 4.2.33  :green_circle:
 - other :warning:
 
+## Unkown Bugs
+- Animation is not support to export now.
+
 ## Usage
 
 - Open "SimpleConsoleProgram.exe" and follow the steps.

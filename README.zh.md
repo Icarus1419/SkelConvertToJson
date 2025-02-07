@@ -7,9 +7,12 @@
 - 4.2.33  :green_circle:
 - 其他 :warning:
 
+## 已知问题
+- 动画部分暂不支持导出
+
 ## 如何使用
 
-- 打开"SimpleConsoleProgram.exe"并按照控制台内提示的步骤进行操作.
+- 打开"SimpleConsoleProgram.exe"并按照控制台内提示的步骤进行操作
 
 ## Attention
 根据 Spine Runtime 集成协议，每个使用 Spine 功能的用户必须拥有 Spine 编辑器的有效许可证。请确保你已经获得了相应的授权，以合法地使用 Spine 功能。
