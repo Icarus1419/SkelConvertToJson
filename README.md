@@ -1,5 +1,5 @@
 # SkelConvertToJson
-English|[中文](https://github.com/Icarus1419/SkelConvertToJson/blob/main/README.zh.md)
+English | [中文](https://github.com/Icarus1419/SkelConvertToJson/blob/main/README.zh.md)
 
 SkelConvertToJson is a tool to use offical runtime tools to load Spine `.atlas` file and 2D `.skel` binary file and convert it to `.json` file.
 
