@@ -1,4 +1,5 @@
 # SkelConvertToJson
+[English](https://github.com/Icarus1419/SkelConvertToJson)|中文
 
 一个将 Spine `.atlas` 文件和 2D `.skel` 二进制文件转为 `.json` 文件的工具类.
 
