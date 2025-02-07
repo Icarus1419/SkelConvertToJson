@@ -35,3 +35,5 @@
 感谢以下项目 (排名不分先后):
 - [kiraio-moe/Skel2Json](https://github.com/kiraio-moe/Skel2Json)
 - [EsotericSoftware/spine-runtimes](https://github.com/EsotericSoftware/spine-runtimes/)
+- [azurlane-doujin/AzurLaneSpineCharacterDecoder](https://github.com/azurlane-doujin/AzurLaneSpineCharacterDecoder)
+- [PeterMoras/SpineBinaryConverter](https://github.com/PeterMoras/SpineBinaryConverter)
