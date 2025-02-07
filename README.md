@@ -35,3 +35,5 @@ By using this software, you acknowledge that you have read, understood, and agre
 Thanks for the following projects (in no particular order):
 - [kiraio-moe/Skel2Json](https://github.com/kiraio-moe/Skel2Json)
 - [EsotericSoftware/spine-runtimes](https://github.com/EsotericSoftware/spine-runtimes/)
+- [azurlane-doujin/AzurLaneSpineCharacterDecoder](https://github.com/azurlane-doujin/AzurLaneSpineCharacterDecoder)
+- [PeterMoras/SpineBinaryConverter](https://github.com/PeterMoras/SpineBinaryConverter)
